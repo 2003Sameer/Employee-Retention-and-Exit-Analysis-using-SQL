@@ -1,0 +1,501 @@
+employee_id,age,gender,department,job_role,monthly_income,years_at_company,job_satisfaction,work_life_balance,overtime,performance_rating,exit_status
+1001,25,Female,Operations,Engineer,105545,10,2,2,0,1,0
+1002,46,Female,Marketing,Executive,118977,15,1,5,0,4,0
+1003,24,Male,Finance,Manager,57292,16,3,2,1,3,0
+1004,40,Female,HR,Analyst,80519,10,2,5,0,1,0
+1005,44,Male,Sales,Executive,65498,2,1,2,0,4,0
+1006,49,Male,Sales,Analyst,19204,0,4,4,0,3,0
+1007,35,Male,HR,Analyst,75365,12,3,5,1,4,0
+1008,44,Female,Operations,Analyst,93161,6,5,2,0,3,0
+1009,29,Female,HR,Team Lead,73272,1,2,4,1,3,1
+1010,46,Female,Operations,Executive,45063,6,4,1,1,4,1
+1011,47,Male,Operations,Team Lead,78472,15,3,4,0,1,1
+1012,29,Female,Sales,Manager,56573,15,4,4,0,3,1
+1013,59,Male,Marketing,Manager,101081,7,2,2,1,2,1
+1014,25,Female,HR,Analyst,36272,19,5,2,0,1,0
+1015,28,Female,IT,Engineer,31131,14,2,4,0,1,0
+1016,21,Female,Marketing,Manager,33674,15,2,1,0,1,0
+1017,32,Male,Sales,Analyst,79098,4,3,2,0,4,1
+1018,27,Female,Sales,Manager,110326,13,1,3,1,4,1
+1019,40,Male,IT,Executive,64504,6,2,4,1,3,0
+1020,26,Male,Finance,Engineer,104090,8,1,2,0,3,1
+1021,45,Male,Marketing,Manager,104623,17,3,3,0,4,0
+1022,21,Female,Marketing,Engineer,48089,13,5,1,0,3,0
+1023,55,Male,IT,Manager,76836,19,5,2,0,1,1
+1024,30,Female,Finance,Engineer,33441,2,3,5,0,4,1
+1025,35,Female,Sales,Executive,96168,10,4,5,1,4,0
+1026,59,Male,Operations,Team Lead,75811,8,5,4,1,2,0
+1027,25,Male,HR,Manager,93549,18,5,5,1,4,1
+1028,30,Female,Marketing,Team Lead,21633,17,4,3,1,4,0
+1029,44,Male,Finance,Executive,97336,15,5,1,0,2,1
+1030,56,Female,HR,Engineer,86137,19,3,5,1,3,1
+1031,24,Female,HR,Executive,37196,16,3,1,1,3,0
+1032,29,Female,Sales,Engineer,29852,0,4,4,1,3,0
+1033,40,Male,HR,Manager,93351,4,1,5,0,3,1
+1034,22,Male,Marketing,Executive,44924,14,4,4,0,2,0
+1035,21,Female,HR,Manager,49906,10,3,4,0,1,1
+1036,37,Female,Sales,Executive,115789,5,5,1,1,3,0
+1037,52,Male,IT,Analyst,72312,15,4,2,1,2,0
+1038,50,Female,Operations,Manager,112632,0,2,1,0,1,1
+1039,49,Male,Finance,Engineer,100838,8,1,1,0,1,0
+1040,28,Male,Finance,Analyst,66262,9,1,3,0,4,1
+1041,44,Male,HR,Executive,75244,3,5,4,0,3,0
+1042,31,Female,Marketing,Engineer,105189,15,5,4,0,2,0
+1043,56,Male,Marketing,Analyst,43977,6,4,1,1,3,0
+1044,21,Female,Operations,Manager,27426,4,5,3,1,4,1
+1045,28,Female,Marketing,Team Lead,76815,7,3,4,0,3,0
+1046,44,Male,Marketing,Manager,62932,4,5,3,1,3,0
+1047,49,Female,IT,Engineer,119399,9,1,2,0,4,0
+1048,53,Male,Operations,Executive,71512,3,5,4,1,3,1
+1049,42,Male,Operations,Engineer,36684,14,5,5,1,2,0
+1050,57,Female,Finance,Analyst,89117,18,4,3,0,1,0
+1051,56,Female,Operations,Team Lead,98026,2,1,4,1,4,0
+1052,54,Female,Operations,Manager,34933,6,4,1,0,2,1
+1053,24,Female,Marketing,Executive,96438,1,3,1,1,1,1
+1054,48,Male,Operations,Analyst,80930,14,1,5,0,4,0
+1055,54,Male,Marketing,Engineer,58691,3,2,3,1,3,1
+1056,40,Male,Operations,Analyst,38424,11,3,3,0,1,1
+1057,48,Female,HR,Executive,77437,18,3,1,0,3,0
+1058,25,Female,Marketing,Manager,70876,9,4,5,1,4,0
+1059,40,Female,Marketing,Analyst,62717,14,1,2,1,4,1
+1060,54,Male,Marketing,Team Lead,108115,1,4,3,1,4,0
+1061,51,Female,Finance,Engineer,36899,7,2,2,0,3,1
+1062,58,Female,IT,Engineer,98975,0,3,3,0,1,0
+1063,30,Female,Operations,Manager,50694,19,1,1,0,1,0
+1064,50,Female,Operations,Engineer,107780,7,3,5,0,1,1
+1065,38,Male,IT,Manager,99425,2,4,1,0,3,1
+1066,52,Male,IT,Engineer,95947,14,2,1,1,2,1
+1067,23,Male,Marketing,Analyst,54719,10,5,2,0,4,1
+1068,40,Female,Finance,Engineer,38807,8,4,3,0,3,0
+1069,39,Female,IT,Engineer,105127,9,2,3,1,4,0
+1070,42,Male,Marketing,Executive,68350,19,4,4,1,3,0
+1071,24,Male,IT,Team Lead,57642,0,5,2,1,1,0
+1072,32,Male,Finance,Analyst,65849,19,5,3,0,1,0
+1073,37,Female,Sales,Engineer,59821,18,5,5,0,2,1
+1074,33,Male,Sales,Team Lead,23611,15,3,1,0,3,1
+1075,50,Male,Sales,Analyst,40118,10,2,3,1,4,0
+1076,30,Female,Marketing,Analyst,54278,10,4,4,1,2,1
+1077,33,Female,IT,Executive,60851,4,2,5,1,4,0
+1078,24,Female,Operations,Manager,81880,6,4,4,1,4,1
+1079,35,Female,Finance,Analyst,51098,6,3,3,0,1,0
+1080,41,Male,Finance,Team Lead,79331,8,1,3,1,3,0
+1081,36,Male,IT,Executive,119495,7,5,1,0,3,1
+1082,56,Female,Operations,Executive,33378,14,1,2,0,4,1
+1083,25,Female,IT,Analyst,40836,0,2,1,0,4,0
+1084,29,Female,Finance,Team Lead,78588,4,4,4,1,2,1
+1085,47,Female,Sales,Team Lead,58433,4,4,4,0,4,1
+1086,44,Male,Operations,Analyst,118448,12,2,1,1,3,0
+1087,34,Female,IT,Engineer,116227,19,3,3,0,1,0
+1088,24,Female,IT,Team Lead,65076,12,5,4,1,3,1
+1089,50,Male,Sales,Executive,114535,16,2,3,0,1,0
+1090,33,Female,IT,Manager,103379,3,3,5,0,3,0
+1091,33,Male,Sales,Analyst,52252,19,2,4,0,3,0
+1092,36,Female,Operations,Analyst,118547,9,5,5,0,1,0
+1093,50,Male,Marketing,Executive,84347,5,4,3,0,2,1
+1094,29,Male,Operations,Analyst,49707,13,4,2,1,2,0
+1095,59,Male,IT,Engineer,84110,1,5,4,0,3,1
+1096,27,Female,Marketing,Manager,94112,12,4,4,0,2,1
+1097,42,Male,Sales,Analyst,26907,5,3,5,0,4,0
+1098,48,Female,HR,Engineer,67183,5,3,5,0,1,1
+1099,28,Female,Operations,Executive,109664,15,1,1,0,2,0
+1100,38,Female,Finance,Executive,43382,0,3,1,1,2,0
+1101,26,Female,Finance,Engineer,56532,10,5,3,1,2,0
+1102,57,Female,IT,Team Lead,102954,4,1,4,1,3,0
+1103,50,Male,Sales,Executive,108363,1,4,3,1,1,1
+1104,47,Female,HR,Engineer,51614,14,1,1,0,1,1
+1105,21,Female,Operations,Engineer,72776,7,2,5,0,1,0
+1106,43,Male,Sales,Executive,101347,17,2,2,0,4,0
+1107,55,Female,Marketing,Analyst,109160,0,4,3,0,1,0
+1108,33,Female,Sales,Manager,47699,17,3,4,1,4,0
+1109,27,Female,Finance,Analyst,31132,0,1,2,0,3,0
+1110,55,Male,HR,Executive,24066,2,4,3,0,4,0
+1111,50,Female,Operations,Executive,86678,11,5,3,0,2,1
+1112,59,Male,Finance,Analyst,70233,2,1,5,0,1,0
+1113,38,Male,Operations,Analyst,43709,15,4,5,0,4,0
+1114,26,Male,HR,Executive,105579,17,2,4,0,4,1
+1115,36,Male,Sales,Engineer,81757,17,2,3,1,2,0
+1116,33,Male,Finance,Team Lead,37319,16,1,4,1,4,1
+1117,49,Female,Sales,Manager,98806,15,3,5,0,2,1
+1118,58,Male,Sales,Engineer,85151,5,1,5,0,4,0
+1119,30,Female,Finance,Analyst,116603,10,2,5,0,2,1
+1120,44,Female,IT,Manager,39612,16,1,4,0,2,1
+1121,42,Female,Marketing,Team Lead,115182,10,3,1,1,3,0
+1122,25,Male,Marketing,Executive,79905,6,1,2,0,2,1
+1123,48,Male,Finance,Manager,71125,1,4,2,0,4,1
+1124,33,Female,Marketing,Manager,95560,14,5,1,1,4,0
+1125,32,Female,Sales,Manager,36572,17,3,2,1,4,0
+1126,27,Male,HR,Manager,80888,19,4,3,0,1,0
+1127,54,Male,Sales,Manager,63439,13,2,4,0,1,0
+1128,42,Female,IT,Team Lead,74905,5,4,3,0,1,1
+1129,42,Female,HR,Analyst,106222,6,3,2,0,2,0
+1130,51,Male,IT,Engineer,61578,15,4,5,0,2,0
+1131,49,Male,Marketing,Manager,35522,19,3,2,0,2,1
+1132,33,Female,Sales,Analyst,52107,3,1,3,0,1,0
+1133,33,Female,Operations,Team Lead,106311,12,2,5,0,1,0
+1134,57,Male,Sales,Team Lead,43236,15,5,4,0,1,1
+1135,28,Male,Finance,Team Lead,90294,12,1,3,0,2,1
+1136,42,Female,IT,Engineer,116469,4,4,3,1,2,1
+1137,59,Female,Operations,Team Lead,21103,11,4,4,1,2,0
+1138,36,Female,Operations,Executive,88540,16,3,2,0,2,1
+1139,39,Male,IT,Manager,80340,11,1,4,0,3,1
+1140,49,Male,Sales,Team Lead,41044,17,4,2,0,3,0
+1141,37,Female,HR,Executive,97291,7,3,5,0,4,1
+1142,26,Male,Finance,Engineer,28516,17,2,1,0,4,0
+1143,56,Female,Marketing,Engineer,22345,11,5,1,1,2,1
+1144,34,Male,Finance,Executive,96252,16,4,2,1,1,1
+1145,53,Male,Sales,Engineer,52820,17,4,4,0,3,1
+1146,44,Male,HR,Engineer,27717,18,4,1,0,3,1
+1147,52,Female,Operations,Executive,98895,9,3,5,1,2,0
+1148,54,Female,HR,Manager,25270,10,1,4,0,2,1
+1149,48,Male,Marketing,Engineer,40134,10,3,3,1,1,1
+1150,35,Female,Sales,Analyst,108891,12,2,2,1,3,0
+1151,53,Female,Sales,Team Lead,61819,19,3,5,0,4,1
+1152,55,Male,Operations,Engineer,102232,4,4,1,0,2,1
+1153,52,Male,HR,Analyst,87754,17,3,3,0,3,0
+1154,59,Female,HR,Analyst,51054,17,3,5,1,2,0
+1155,39,Male,Operations,Team Lead,64791,1,4,4,0,4,1
+1156,30,Female,HR,Analyst,48173,7,2,5,1,3,0
+1157,30,Female,IT,Analyst,108039,2,4,3,1,1,0
+1158,34,Female,IT,Manager,97652,0,5,4,1,2,1
+1159,42,Female,Marketing,Manager,26170,19,1,4,0,2,0
+1160,22,Female,Marketing,Executive,40610,10,3,1,1,4,0
+1161,52,Female,IT,Engineer,62041,18,4,4,1,2,1
+1162,35,Male,IT,Engineer,70946,17,2,3,0,1,1
+1163,37,Female,IT,Engineer,56272,8,3,3,1,2,0
+1164,46,Female,HR,Manager,60175,0,1,3,0,2,0
+1165,54,Female,Sales,Team Lead,67505,0,4,4,0,2,1
+1166,42,Male,Operations,Engineer,22393,18,2,2,0,1,0
+1167,40,Male,Operations,Team Lead,18014,11,5,3,1,2,0
+1168,39,Female,HR,Analyst,74116,19,4,5,1,2,1
+1169,21,Female,IT,Executive,105913,0,5,3,0,4,1
+1170,34,Male,Operations,Executive,89308,10,1,4,0,1,0
+1171,31,Female,Operations,Analyst,18447,15,5,4,0,3,0
+1172,48,Female,IT,Engineer,115354,0,3,4,1,1,0
+1173,49,Female,IT,Analyst,61036,6,4,4,1,3,0
+1174,29,Male,Sales,Team Lead,58352,16,5,5,1,3,1
+1175,54,Female,IT,Team Lead,53013,10,2,3,1,2,0
+1176,57,Female,Operations,Analyst,40692,4,4,2,0,2,0
+1177,46,Female,HR,Engineer,69564,14,1,1,1,4,1
+1178,49,Female,Marketing,Analyst,74156,3,3,1,0,4,1
+1179,28,Female,HR,Engineer,42673,18,3,1,1,1,1
+1180,36,Male,IT,Engineer,21167,5,1,5,0,1,0
+1181,21,Female,IT,Engineer,29377,8,4,5,1,2,1
+1182,39,Male,Sales,Manager,53715,3,1,4,1,2,0
+1183,21,Male,HR,Executive,106309,7,1,2,1,1,0
+1184,30,Male,Operations,Engineer,54048,0,3,2,1,3,0
+1185,55,Male,Sales,Engineer,40895,15,2,3,0,3,1
+1186,26,Female,HR,Team Lead,25189,15,4,1,1,2,0
+1187,42,Male,Marketing,Executive,92307,10,1,1,1,1,0
+1188,37,Male,HR,Manager,46520,6,3,5,0,2,1
+1189,32,Male,HR,Executive,47141,14,3,3,1,4,1
+1190,53,Female,Marketing,Executive,21206,11,3,1,0,3,1
+1191,57,Female,HR,Engineer,82573,11,4,3,0,2,0
+1192,26,Female,Sales,Executive,30883,8,1,3,1,2,0
+1193,49,Male,Sales,Team Lead,75145,3,1,2,0,3,0
+1194,50,Male,Finance,Executive,62160,6,1,1,1,4,1
+1195,52,Male,Operations,Analyst,95915,9,2,1,1,1,1
+1196,28,Male,HR,Executive,54112,13,1,5,0,2,0
+1197,49,Male,Operations,Manager,103604,13,4,2,1,2,0
+1198,35,Male,Sales,Engineer,34081,14,5,1,0,2,0
+1199,34,Male,HR,Team Lead,69667,8,1,2,0,1,1
+1200,40,Female,IT,Team Lead,87233,7,4,2,0,2,0
+1201,34,Female,Operations,Manager,93595,16,1,4,0,2,0
+1202,45,Female,Sales,Manager,80739,8,4,5,1,3,0
+1203,24,Male,IT,Manager,81265,14,3,3,1,2,0
+1204,28,Male,Marketing,Analyst,80356,7,3,5,0,2,0
+1205,53,Female,HR,Manager,63271,12,2,3,0,3,0
+1206,54,Male,Marketing,Analyst,30003,16,2,3,0,4,1
+1207,32,Male,IT,Manager,83565,13,2,1,1,3,1
+1208,48,Male,IT,Analyst,72083,9,3,2,0,1,0
+1209,25,Female,Operations,Team Lead,79998,10,5,2,1,3,0
+1210,59,Male,HR,Team Lead,47357,15,5,2,1,4,1
+1211,52,Female,HR,Executive,112384,5,4,1,0,1,0
+1212,51,Female,Finance,Executive,40685,2,3,1,0,4,0
+1213,35,Female,HR,Engineer,104190,13,2,4,1,4,0
+1214,33,Male,Sales,Engineer,80776,5,1,5,1,3,0
+1215,37,Female,Sales,Manager,42958,11,1,5,0,1,0
+1216,47,Male,IT,Analyst,70393,14,4,3,0,4,0
+1217,53,Male,Sales,Team Lead,69384,11,3,2,0,4,0
+1218,54,Male,Finance,Analyst,33445,19,1,2,0,2,1
+1219,29,Female,Marketing,Team Lead,104075,18,4,3,0,3,0
+1220,51,Male,Operations,Engineer,109110,11,1,3,0,3,0
+1221,54,Female,Marketing,Executive,69254,6,3,5,0,2,0
+1222,36,Male,Sales,Engineer,93247,2,3,3,0,1,0
+1223,43,Female,IT,Analyst,103681,17,2,3,1,3,1
+1224,55,Female,HR,Analyst,45146,17,2,3,0,3,1
+1225,33,Male,Finance,Executive,71919,10,3,3,0,3,0
+1226,25,Male,Operations,Analyst,36306,14,1,2,0,3,1
+1227,41,Female,Operations,Manager,79700,8,4,1,0,2,1
+1228,39,Male,HR,Analyst,87709,8,1,5,0,2,1
+1229,42,Male,HR,Analyst,110661,6,3,4,1,4,0
+1230,43,Female,HR,Engineer,73220,13,3,3,0,2,0
+1231,39,Male,HR,Analyst,44861,2,4,1,0,4,1
+1232,26,Male,Finance,Executive,89961,7,5,5,1,3,0
+1233,26,Male,HR,Executive,61323,18,5,5,0,4,1
+1234,26,Female,IT,Manager,116107,19,2,2,0,2,0
+1235,27,Male,Marketing,Analyst,100337,3,1,5,0,3,1
+1236,52,Female,IT,Engineer,66915,12,2,3,1,4,0
+1237,50,Female,IT,Engineer,118125,1,5,4,0,2,0
+1238,37,Male,Operations,Analyst,22136,17,1,3,0,2,0
+1239,25,Female,Marketing,Engineer,75190,7,3,3,0,4,1
+1240,59,Female,IT,Executive,46428,6,2,3,1,4,0
+1241,34,Male,Marketing,Engineer,61007,8,5,5,1,3,0
+1242,23,Male,IT,Engineer,66912,5,1,3,1,1,0
+1243,33,Male,HR,Manager,89741,19,3,4,0,2,0
+1244,45,Female,Operations,Manager,61836,3,1,2,0,4,1
+1245,48,Male,HR,Team Lead,99546,17,1,4,1,3,0
+1246,37,Male,Marketing,Executive,41617,14,4,2,1,3,0
+1247,26,Female,Operations,Executive,118636,18,2,4,0,4,0
+1248,50,Male,Marketing,Engineer,39475,12,1,4,0,1,0
+1249,30,Female,Operations,Executive,115175,19,1,5,0,1,1
+1250,35,Male,HR,Executive,32889,7,4,5,1,4,1
+1251,27,Female,Operations,Engineer,36480,4,5,2,0,2,1
+1252,23,Female,Marketing,Team Lead,48489,4,4,2,0,2,1
+1253,58,Female,HR,Engineer,102400,19,5,4,1,2,1
+1254,43,Male,Operations,Manager,110527,18,3,2,1,3,0
+1255,30,Male,IT,Manager,101268,16,3,3,0,1,1
+1256,56,Male,Operations,Engineer,59025,0,2,3,0,3,1
+1257,36,Female,IT,Analyst,51555,0,4,5,0,4,1
+1258,41,Male,IT,Analyst,74731,18,5,5,0,4,1
+1259,53,Female,IT,Manager,20230,18,1,2,0,1,1
+1260,56,Male,IT,Team Lead,113241,6,2,5,0,1,1
+1261,42,Male,Marketing,Team Lead,55331,3,4,2,1,4,0
+1262,27,Male,Sales,Executive,98776,3,5,4,0,4,0
+1263,41,Female,Marketing,Analyst,50525,7,1,1,0,4,1
+1264,21,Male,Marketing,Analyst,46478,8,4,4,0,2,1
+1265,41,Female,Operations,Engineer,67616,18,2,1,0,3,0
+1266,54,Female,Marketing,Analyst,43013,5,2,1,1,3,1
+1267,42,Male,Operations,Executive,50654,13,4,5,1,3,1
+1268,23,Male,Marketing,Analyst,66009,19,2,3,0,1,0
+1269,32,Female,HR,Manager,91179,17,4,2,1,1,1
+1270,32,Male,Sales,Team Lead,42475,8,4,5,1,3,0
+1271,57,Male,IT,Team Lead,53090,12,3,4,0,1,0
+1272,29,Male,IT,Manager,83392,16,5,3,1,1,0
+1273,28,Male,Finance,Manager,96001,15,3,3,1,2,1
+1274,28,Female,Finance,Team Lead,30709,12,4,2,0,3,0
+1275,42,Male,Operations,Executive,100391,2,3,3,1,2,1
+1276,40,Female,Operations,Analyst,39974,7,4,3,1,1,1
+1277,43,Female,Sales,Manager,33392,9,1,1,0,3,0
+1278,56,Female,Operations,Engineer,58674,14,3,1,0,2,0
+1279,38,Male,HR,Manager,59440,11,1,5,1,1,1
+1280,54,Male,HR,Analyst,50775,5,3,5,1,2,0
+1281,29,Female,HR,Analyst,51821,6,4,4,1,2,0
+1282,36,Male,Operations,Engineer,55503,17,5,3,1,1,1
+1283,31,Female,Finance,Team Lead,52095,9,2,5,0,4,0
+1284,39,Female,Sales,Executive,102554,13,2,4,1,3,0
+1285,48,Female,Marketing,Engineer,41282,15,1,3,1,3,1
+1286,38,Female,Sales,Engineer,88387,8,3,1,1,1,1
+1287,47,Female,Sales,Executive,52584,15,1,1,0,3,1
+1288,21,Female,IT,Manager,109386,5,5,4,1,2,0
+1289,29,Female,Sales,Team Lead,115208,4,3,1,0,1,0
+1290,34,Male,IT,Team Lead,31923,14,2,1,0,4,0
+1291,45,Male,Marketing,Manager,79991,5,5,1,1,4,0
+1292,33,Male,IT,Analyst,91982,10,4,4,1,2,1
+1293,55,Male,Operations,Engineer,105976,13,5,1,1,3,0
+1294,24,Male,IT,Manager,114275,1,3,2,0,2,0
+1295,53,Male,Operations,Team Lead,29403,11,3,5,0,4,1
+1296,47,Female,IT,Executive,101570,1,2,1,0,1,1
+1297,38,Female,IT,Manager,29237,7,1,2,1,2,0
+1298,32,Male,Operations,Analyst,89518,4,5,4,1,1,1
+1299,22,Male,Sales,Manager,106523,4,4,5,0,2,0
+1300,58,Male,Finance,Team Lead,38446,17,5,2,0,1,0
+1301,58,Female,Finance,Manager,58921,1,2,5,0,4,0
+1302,30,Male,HR,Manager,39075,6,1,4,0,4,0
+1303,48,Male,Marketing,Engineer,82097,18,1,1,0,4,0
+1304,40,Female,HR,Analyst,72836,0,5,1,1,3,1
+1305,41,Male,Finance,Analyst,80013,15,5,5,1,4,0
+1306,23,Male,HR,Team Lead,47054,1,1,4,1,4,1
+1307,29,Male,Marketing,Executive,77603,2,2,3,0,1,1
+1308,41,Male,Finance,Engineer,69377,15,5,1,0,2,1
+1309,31,Female,IT,Executive,61162,5,2,4,0,3,1
+1310,53,Female,Operations,Team Lead,89424,7,3,4,0,1,0
+1311,23,Female,Finance,Engineer,116895,17,3,3,0,4,1
+1312,43,Female,HR,Manager,39002,0,4,2,0,2,1
+1313,24,Female,IT,Analyst,68668,5,4,5,0,1,0
+1314,49,Female,Finance,Manager,41598,10,4,2,0,1,1
+1315,36,Female,IT,Team Lead,61498,16,1,1,1,2,1
+1316,59,Male,Operations,Manager,70618,3,4,4,0,2,0
+1317,30,Female,IT,Executive,20770,5,1,4,1,2,0
+1318,57,Male,HR,Engineer,39043,19,4,4,1,4,0
+1319,33,Male,Marketing,Engineer,100874,0,2,5,1,1,0
+1320,55,Male,Finance,Team Lead,28078,2,4,1,1,4,0
+1321,57,Female,Finance,Analyst,52775,17,4,4,1,3,1
+1322,43,Female,HR,Engineer,108361,4,4,5,0,4,0
+1323,26,Female,Sales,Engineer,117348,1,1,2,0,2,1
+1324,36,Male,Finance,Executive,39536,10,5,5,0,4,0
+1325,24,Female,HR,Executive,26412,17,4,1,1,2,0
+1326,58,Female,Operations,Manager,117299,10,3,4,1,4,0
+1327,43,Female,Sales,Engineer,43912,7,4,1,0,2,0
+1328,35,Female,Operations,Executive,28886,12,3,2,1,3,1
+1329,57,Female,Operations,Team Lead,23184,19,5,2,0,2,1
+1330,40,Male,IT,Analyst,61762,10,3,1,0,2,0
+1331,58,Male,Operations,Executive,45402,4,4,3,1,3,1
+1332,44,Male,Sales,Executive,106708,17,5,1,0,1,0
+1333,26,Female,Finance,Analyst,53940,3,2,5,0,3,1
+1334,45,Male,Operations,Executive,84535,14,4,3,0,3,1
+1335,32,Male,IT,Executive,102100,8,4,3,0,3,1
+1336,47,Female,Sales,Engineer,108465,5,3,5,1,2,1
+1337,55,Female,Operations,Executive,42063,18,1,3,1,3,1
+1338,37,Male,HR,Engineer,98978,7,2,4,1,1,1
+1339,40,Female,Sales,Analyst,71127,16,2,5,1,4,1
+1340,55,Male,HR,Engineer,27484,9,3,2,1,1,0
+1341,31,Female,IT,Manager,60479,11,2,1,1,2,0
+1342,25,Male,Operations,Executive,71132,1,2,4,1,4,0
+1343,24,Female,Operations,Executive,59324,3,2,2,1,4,0
+1344,25,Female,IT,Team Lead,39119,7,1,3,1,1,1
+1345,28,Male,Sales,Engineer,23909,5,5,4,1,3,1
+1346,23,Male,Operations,Executive,65019,2,1,4,1,4,0
+1347,31,Male,Marketing,Analyst,53814,18,3,5,0,4,0
+1348,29,Male,Finance,Engineer,85743,12,4,2,1,1,1
+1349,50,Female,Marketing,Executive,101008,2,2,2,1,3,0
+1350,25,Male,Finance,Analyst,40349,8,2,4,1,1,0
+1351,21,Male,IT,Analyst,27792,1,2,2,0,2,0
+1352,44,Male,Finance,Team Lead,28921,14,4,2,0,3,1
+1353,41,Male,Operations,Manager,73926,5,1,4,0,4,1
+1354,50,Male,Operations,Analyst,35546,13,5,4,1,1,0
+1355,52,Male,IT,Team Lead,28079,15,3,4,0,2,0
+1356,43,Female,Marketing,Executive,33513,5,4,5,0,1,0
+1357,51,Female,Marketing,Manager,95417,13,4,5,1,1,0
+1358,21,Female,IT,Analyst,63962,19,5,2,1,4,1
+1359,55,Male,Finance,Executive,46881,4,4,5,1,3,1
+1360,41,Male,HR,Team Lead,83740,3,1,5,1,3,0
+1361,36,Male,Finance,Team Lead,57085,3,5,4,1,2,0
+1362,41,Female,Operations,Analyst,111645,10,3,3,1,2,1
+1363,38,Male,Sales,Engineer,68961,2,5,5,1,4,0
+1364,31,Female,IT,Executive,118356,14,5,5,0,3,0
+1365,21,Male,Operations,Engineer,104793,12,4,3,0,4,0
+1366,21,Female,HR,Engineer,66702,10,4,4,0,1,1
+1367,55,Female,IT,Analyst,74549,4,4,4,1,1,1
+1368,56,Male,Marketing,Analyst,45813,9,1,4,1,4,0
+1369,49,Male,Marketing,Team Lead,42864,2,5,1,0,2,1
+1370,56,Female,IT,Engineer,68328,1,4,1,0,2,1
+1371,42,Female,Marketing,Manager,59901,9,5,5,0,3,1
+1372,59,Male,IT,Manager,80462,13,1,5,1,3,1
+1373,45,Male,Operations,Team Lead,116909,6,2,3,1,4,0
+1374,43,Female,Finance,Engineer,87577,13,3,2,1,4,1
+1375,44,Female,Sales,Engineer,86454,13,5,3,1,4,0
+1376,49,Female,HR,Engineer,63102,14,4,2,1,1,1
+1377,32,Female,Finance,Team Lead,94857,4,2,4,0,4,0
+1378,32,Male,Marketing,Manager,73799,9,5,5,1,4,1
+1379,43,Female,Sales,Manager,80297,9,3,5,1,3,1
+1380,49,Male,Finance,Manager,68791,9,1,4,1,3,1
+1381,57,Male,IT,Engineer,106440,9,3,2,0,4,1
+1382,23,Female,HR,Executive,97562,5,4,3,0,4,0
+1383,50,Female,IT,Executive,90849,2,3,5,0,4,1
+1384,29,Male,Operations,Engineer,116001,19,1,3,0,4,0
+1385,59,Female,IT,Manager,72092,5,5,4,0,1,0
+1386,47,Female,Finance,Executive,34865,7,5,1,0,1,1
+1387,38,Female,Sales,Executive,87645,9,2,2,1,2,0
+1388,37,Male,HR,Analyst,29670,7,1,4,1,3,0
+1389,28,Male,Finance,Team Lead,56503,6,3,3,1,4,0
+1390,25,Female,IT,Manager,87056,7,3,5,1,1,0
+1391,24,Female,HR,Analyst,39462,12,1,3,1,3,1
+1392,44,Male,Operations,Executive,68029,3,2,4,1,3,0
+1393,49,Male,Marketing,Executive,33425,13,5,1,0,4,1
+1394,57,Female,Operations,Engineer,19964,3,1,1,0,1,0
+1395,52,Male,HR,Analyst,76970,9,1,5,0,3,0
+1396,42,Male,Operations,Team Lead,57803,3,3,5,0,4,0
+1397,21,Male,Sales,Analyst,64505,10,3,4,1,3,1
+1398,49,Female,IT,Analyst,23791,4,3,5,0,2,0
+1399,28,Female,Finance,Analyst,44092,13,4,1,1,1,1
+1400,47,Male,Finance,Team Lead,54080,3,4,4,1,2,0
+1401,26,Female,Operations,Executive,107524,4,1,5,1,4,0
+1402,33,Female,Operations,Engineer,43799,12,3,2,0,1,1
+1403,22,Female,Sales,Executive,109823,10,4,1,1,3,1
+1404,42,Male,Operations,Engineer,111663,1,1,2,0,1,1
+1405,46,Male,HR,Manager,30794,15,4,3,1,3,1
+1406,46,Male,Marketing,Engineer,79223,4,2,3,0,2,1
+1407,42,Male,Sales,Analyst,93335,3,5,4,1,4,0
+1408,59,Female,IT,Manager,71773,10,1,1,1,2,1
+1409,58,Female,Marketing,Executive,57260,11,3,4,1,2,0
+1410,46,Male,Operations,Analyst,29623,1,2,5,0,1,1
+1411,25,Female,IT,Analyst,31512,18,3,1,0,3,0
+1412,50,Male,Operations,Team Lead,116024,11,3,5,0,2,0
+1413,43,Female,Marketing,Manager,31397,4,2,3,0,2,0
+1414,53,Female,Operations,Engineer,93786,13,1,2,1,1,1
+1415,43,Female,Sales,Executive,50622,14,5,4,0,1,0
+1416,55,Female,Marketing,Manager,67100,11,5,1,0,1,1
+1417,31,Male,Sales,Executive,41955,11,4,4,0,4,0
+1418,34,Male,Operations,Executive,32657,3,5,1,0,3,1
+1419,56,Female,IT,Team Lead,22209,2,2,1,1,4,0
+1420,54,Female,IT,Analyst,102791,0,3,5,1,2,1
+1421,59,Male,Operations,Analyst,98036,15,5,2,0,3,0
+1422,37,Male,Finance,Team Lead,79727,10,3,4,0,4,0
+1423,25,Male,Operations,Executive,37225,17,3,2,0,2,1
+1424,44,Female,Operations,Analyst,78104,12,2,4,0,2,1
+1425,21,Male,Sales,Team Lead,77531,0,3,1,0,2,0
+1426,39,Male,Finance,Manager,97986,15,3,2,0,1,0
+1427,30,Male,Finance,Engineer,83600,3,4,1,1,3,1
+1428,27,Female,Marketing,Executive,38864,16,3,4,0,3,0
+1429,38,Male,HR,Executive,25456,15,1,1,1,1,1
+1430,23,Female,Marketing,Analyst,75546,10,2,1,1,1,0
+1431,35,Male,HR,Team Lead,56831,3,1,4,1,2,0
+1432,23,Male,IT,Engineer,101662,12,3,4,1,1,0
+1433,52,Female,Finance,Engineer,21932,8,3,2,0,2,1
+1434,29,Female,IT,Engineer,53628,12,5,1,1,4,1
+1435,34,Female,IT,Analyst,114364,13,4,5,1,3,1
+1436,49,Male,Finance,Manager,71639,14,1,5,0,2,1
+1437,47,Male,IT,Engineer,30265,16,1,3,1,3,0
+1438,39,Female,Marketing,Manager,55086,13,3,3,1,1,0
+1439,41,Male,Sales,Team Lead,81054,0,2,1,0,2,0
+1440,44,Male,Finance,Analyst,37764,12,4,3,1,1,1
+1441,49,Male,Finance,Analyst,61643,10,3,2,1,4,0
+1442,49,Male,Marketing,Manager,58341,12,1,1,0,3,1
+1443,36,Male,Operations,Manager,66647,13,1,1,0,4,0
+1444,54,Female,Marketing,Analyst,95160,16,3,1,1,1,1
+1445,21,Female,Operations,Team Lead,112541,17,1,2,0,2,1
+1446,22,Female,HR,Executive,77395,15,1,4,1,1,1
+1447,45,Male,Sales,Executive,33548,7,3,3,1,4,0
+1448,57,Male,IT,Engineer,105586,4,3,5,0,3,0
+1449,43,Male,HR,Manager,63686,7,2,1,0,2,1
+1450,22,Female,HR,Engineer,41072,5,2,2,0,3,1
+1451,41,Female,Marketing,Engineer,81916,19,2,2,0,2,1
+1452,29,Female,Marketing,Executive,45217,19,3,3,1,4,0
+1453,44,Male,Marketing,Manager,39657,11,1,1,1,1,0
+1454,48,Female,Sales,Team Lead,74066,8,1,4,0,2,1
+1455,56,Male,IT,Manager,64643,19,4,3,0,2,0
+1456,35,Female,IT,Executive,35258,14,5,5,1,4,1
+1457,43,Male,Sales,Executive,80387,13,2,5,0,1,0
+1458,46,Male,Marketing,Analyst,20576,10,3,3,1,2,0
+1459,46,Female,HR,Engineer,19321,5,4,1,1,2,1
+1460,51,Male,HR,Engineer,44941,15,5,5,0,4,0
+1461,33,Female,Finance,Team Lead,104128,18,1,4,1,1,0
+1462,44,Female,HR,Analyst,24555,17,2,5,0,3,1
+1463,59,Female,Finance,Manager,82727,15,3,4,1,4,0
+1464,45,Male,Operations,Manager,46226,8,1,4,0,3,1
+1465,43,Male,Finance,Analyst,34189,2,4,4,0,1,1
+1466,48,Female,Finance,Manager,94532,5,1,2,1,3,1
+1467,23,Male,Marketing,Analyst,94996,8,3,2,1,4,1
+1468,39,Female,Sales,Manager,47553,15,4,1,1,3,1
+1469,58,Male,Marketing,Analyst,116908,13,5,3,0,3,0
+1470,38,Female,Operations,Engineer,96776,6,1,4,0,4,1
+1471,38,Female,Marketing,Analyst,22018,7,4,1,0,4,1
+1472,25,Male,HR,Engineer,99414,14,2,5,0,4,0
+1473,46,Male,Marketing,Analyst,117337,16,1,1,0,4,1
+1474,50,Male,IT,Team Lead,49224,5,5,1,1,1,0
+1475,32,Male,Operations,Engineer,20618,7,4,2,0,1,0
+1476,58,Female,HR,Executive,86900,18,5,3,0,4,1
+1477,52,Female,HR,Engineer,36320,12,4,2,0,2,1
+1478,24,Male,Finance,Analyst,118287,7,2,4,0,1,0
+1479,51,Male,Sales,Executive,105801,14,5,2,0,3,0
+1480,34,Male,HR,Team Lead,97663,18,3,2,0,3,1
+1481,26,Female,IT,Team Lead,81511,19,3,3,0,2,1
+1482,21,Female,HR,Executive,87726,1,5,3,1,3,1
+1483,36,Male,Finance,Analyst,34779,7,2,4,1,3,1
+1484,57,Male,Sales,Manager,26453,2,3,2,1,3,0
+1485,34,Female,IT,Analyst,65979,7,3,4,1,2,1
+1486,53,Female,IT,Engineer,49001,18,1,5,1,1,1
+1487,53,Female,Operations,Executive,74707,1,1,2,0,4,0
+1488,32,Male,Sales,Analyst,32335,2,4,4,0,4,0
+1489,22,Female,HR,Engineer,118218,6,4,1,0,3,1
+1490,53,Male,IT,Engineer,74362,10,5,3,1,3,0
+1491,27,Male,HR,Analyst,98189,16,4,2,0,2,1
+1492,24,Female,IT,Analyst,92247,16,5,3,1,4,1
+1493,59,Male,IT,Engineer,100949,19,1,3,0,3,1
+1494,51,Female,Finance,Executive,78928,6,4,2,1,2,1
+1495,25,Male,Finance,Executive,85320,14,5,3,1,1,0
+1496,48,Male,Finance,Engineer,22256,18,3,3,0,4,0
+1497,51,Female,Marketing,Manager,21962,12,1,5,0,4,1
+1498,47,Female,Marketing,Manager,47965,8,5,2,0,4,1
+1499,47,Female,Sales,Team Lead,56763,11,3,4,1,4,1
+1500,48,Male,Marketing,Analyst,47043,7,2,5,1,2,1
